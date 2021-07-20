@@ -41,6 +41,7 @@ files\pl_Linux.bin
 files\pl_Linux2.bin
 files\pl_OfflineCacheBackup.bin
 files\pl_OfflineCacheRestore.bin
+files\pl_Orbis_Toolbox.bin
 files\pl_PS4debug.bin
 files\pl_SaveDataBackup.bin
 files\pl_SaveDataRestore.bin
@@ -59,3 +60,4 @@ files\img\FanControl.svg
 files\img\ftp.svg
 files\img\hen.svg
 files\img\linux.svg
+files\img\OrbisToolbox.png
